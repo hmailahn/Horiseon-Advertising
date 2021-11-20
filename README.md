@@ -1,14 +1,16 @@
-Horiseon Marketing
-I helped Horiseon Marketing agency edit the code for their website to help follow accesibility standards and optimize their site for search engines.
+# HORISEON MARKETING 
 
-Here is a screenshot of the finished product: https://github.com/hmailahn/Horiseon-marketing/blob/main/assets/images/Screenshot-of-project.png
-Here is the link to the repository: https://github.com/hmailahn/Horiseon-marketing
+## DESCRIPTION
 
+I HELPED HORISEON MARKETING AGENCY EDIT THE CODE FOR THEIR WEBSITE TO HELP FOLLOW ACCESSIBILITY STANDARDS AND OPTIMIZE THEIR SITE FOR SEARCH ENGINES. 
 
-Horiseon Marketing already had a great landing page. I came in and fixed a link in the navigation bar, added accesible alt attributes to the images, cleaned up html to have semantic elements, followeed sequential order for heading attributes throughout the code, added a title to the webpage, and consolidated and rearranged styles in css. 
+HORISEON MARKETING ALREADY HAD A GREAT LANDING PAGE. I CAME IN AND FIXED A LINK IN THE NAVIGATION BAR, ADDED ACCESSIBLE ALT ATTRIBUTES TO THE IMAGES, CLEANED UP HTML TO HAVE SEMANTIC ELEMENTS, FOLLOWED SEQUENTIAL ORDER FOR HEADING ATTRIBUTES THROUGHOUT THE CODE, ADDED A TITLE TO THE WEBPAGE, AND CONSOLIDATED AND REARRANGED STYLES IN CSS.  
 
-With the navigation bar in the header, you can click and read more about search engine optimization, online reputation management, and social media marketing. 
+## USAGE
 
-If you scroll down you can see the content section and the benefits section. The contact section features a photo, a heading, and a paragraph for search engine optimization, online reputation management, and social media marketing. The benefits section is to the left and features a heading, graphic, and sentence about lead generation, brand awareness, and cost management. 
+WITH THE NAVIGATION BAR IN THE HEADER, YOU CAN CLICK AND READ MORE ABOUT SEARCH ENGINE OPTIMIZATION, ONLINE REPUTATION MANAGEMENT, AND SOCIAL MEDIA MARKETING.  
 
-There have be alt attributes added to the photos in the content section for more accessibility. 
+IF YOU SCROLL DOWN YOU CAN SEE THE CONTENT SECTION AND THE BENEFITS SECTION. THE CONTACT SECTION FEATURES A PHOTO, A HEADING, AND A PARAGRAPH FOR SEARCH ENGINE OPTIMIZATION, ONLINE REPUTATION MANAGEMENT, AND SOCIAL MEDIA MARKETING. THE BENEFITS SECTION IS TO THE LEFT AND FEATURES A HEADING, GRAPHIC, AND SENTENCE ABOUT LEAD GENERATION, BRAND AWARENESS, AND COST MANAGEMENT.  
+
+HERE IS A SCREENSHOT OF THE FINISHED PRODUCT:  https://github.com/hmailahn/Horiseon-marketing/blob/main/assets/images/Screenshot-of-project.png
+HERE IS THE LINK TO THE REPOSITORY : https://github.com/hmailahn/Horiseon-marketing
