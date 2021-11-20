@@ -49,10 +49,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
 /* Hero Section */
 
 .hero {
@@ -88,6 +84,10 @@ p {
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+p {
+    font-size: 16px;
 }
 
 .float-left {
